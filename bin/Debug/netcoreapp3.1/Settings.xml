@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<config>
+  
+	<StrReadPageA>select Col_A1 FROM Table_A</StrReadPageA>
+  <StrReadPageB>select Col_B1,Col_B3 FROM Table_B</StrReadPageB>
+  <StrReadPageC>select Col_C3 FROM Table_C</StrReadPageC>
+	<ConnetionStr>Server=DOK\SQLEXPRESS;Database=DevData;Trusted_Connection=False;encrypt=false</ConnetionStr>
+
+</config>
